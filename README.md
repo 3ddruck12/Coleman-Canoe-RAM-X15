@@ -4,3 +4,5 @@ Here you can find spare parts for a Coleman RAM X15 (Pelican) canoe. In the firs
 
 First Project Chair:
 A replacement seat shell for a Coleman Ram X15 canoe. I used DIN 7991 M6x50mm and hexagonal bolts to mount the seat. It is possible to print the shell in 3D or mill it out of wood.
+![grafik](https://github.com/3ddruck12/Coleman-Canoe-RAM-X15/assets/84323074/98fb82f3-982c-46b8-96a5-3744a9da1b22)
+
