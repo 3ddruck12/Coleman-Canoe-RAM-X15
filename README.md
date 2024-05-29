@@ -9,3 +9,12 @@ A replacement seat shell for a Coleman Ram X15 canoe. I used DIN 7991 M6x50mm an
 
 
 Handle for the Coleman-Canoe-RAM-X15 
+
+HDPE welding repair Instructions 
+
+https://www.sport-schroeer.de/download/PE_Reparatur.pdf
+
+Germany Company repair canoe. 
+https://www.teuto-kunststofftechnik.de/kanu-reparaturen.html
+
+ 
