@@ -14,6 +14,8 @@ HDPE welding repair Instructions
 
 https://www.sport-schroeer.de/download/PE_Reparatur.pdf
 
+Thank you Sport Schroeer for this Instructions
+
 Germany Company repair canoe. 
 https://www.teuto-kunststofftechnik.de/kanu-reparaturen.html
 
